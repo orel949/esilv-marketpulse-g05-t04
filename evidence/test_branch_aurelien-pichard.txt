@@ -1,0 +1,19 @@
+@orel949 ➜ /workspaces/esilv-marketpulse-orel (aurelien-pichard) $ python src/main.py
+<class 'dict'>
+dict_keys(['instrument', 'benchmark'])
+AAPL
+Apple Inc.
+USD
+SP500
+S&P 500
+<class 'list'>
+<class 'dict'>
+{'date': '2026-09-01', 'ticker': 'AAPL', 'open': '249.20', 'high': '251.50', 'low': '248.00', 'close': '250.00', 'volume': '38000000'}
+250.00
+<class 'str'>
+21
+21
+AAPL  -> 250.0
+SP500 -> 6600.0
+AAPL  -> 266.2
+SP500 -> 6742.0
